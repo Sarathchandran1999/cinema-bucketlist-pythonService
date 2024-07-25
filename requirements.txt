@@ -1,0 +1,10 @@
+flask
+psycopg2-binary
+python-dotenv
+pydantic
+pylint
+flake8
+pep8
+autopep8
+
+
